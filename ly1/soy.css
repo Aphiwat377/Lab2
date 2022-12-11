@@ -1,0 +1,15 @@
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 2.5em;
+  }
+p {
+    font-size: 1.5em;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    border-color: azure;
+  }
+
